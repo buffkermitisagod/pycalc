@@ -1,0 +1,22 @@
+PRINT: "add"
+int c = 1 + 1
+PRINT: c
+int f = 10 / 10
+PRINT: "divide"
+PRINT: f
+int g = 1 * 100
+PRINT: "times"
+PRINT: g
+int h = 4 / 5
+PRINT: "divide"
+PRINT: h
+ter h
+ter g
+ter c
+ter f
+int b = 1 + 1
+PRINT: "new b"
+if b = 2{PRINT: "wow!";int f = b + b}
+if f > b{PRINT: "wow! b is smaller than f"}
+ter b
+ter f
