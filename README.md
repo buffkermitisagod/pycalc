@@ -12,4 +12,4 @@ else
     
 # install
 
-git clone https://github.com/buffkermitisagod/pycalc.git
+    git clone https://github.com/buffkermitisagod/pycalc.git
