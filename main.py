@@ -17,7 +17,7 @@ while True:
 
 --------------------------------------------------------
 [1] ide
-[2] compile (kinda not) 
+[2] interprate
 
         """)
     x = int(input("[ENTER] enter choice: "))
